@@ -1,0 +1,6 @@
+{
+    "servers": ["https://raw.githubusercontent.com/Kaseaa/kuma-prediction/master/"],
+    "supportUrl": "https://github.com/Kaseaa/kuma-prediction/issues",
+    "name": "kuma-prediction",
+    "disableAutoUpdate": false
+}
